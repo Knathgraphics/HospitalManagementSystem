@@ -1,0 +1,7 @@
+C:\Users\NATH BRANDING AGENCY\Documents\Visual Studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\NATH BRANDING AGENCY\Documents\Visual Studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\NATH BRANDING AGENCY\Documents\Visual Studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.Form1.resources
+C:\Users\NATH BRANDING AGENCY\Documents\Visual Studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\NATH BRANDING AGENCY\Documents\Visual Studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+C:\Users\NATH BRANDING AGENCY\Documents\Visual Studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.exe
+C:\Users\NATH BRANDING AGENCY\Documents\Visual Studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.pdb
